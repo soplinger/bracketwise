@@ -1,0 +1,9 @@
+# Illustrative bracket file. These numbers are invented for the demo, not real tax law.
+currency USD
+deduction 12000
+credit 150
+
+band 0 10000 10%
+band 10000 40000 12%
+band 40000 90000 22%
+band 90000 inf 32%
